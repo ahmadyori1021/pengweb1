@@ -1,0 +1,11 @@
+.show-more{  
+    padding: 5px; 
+    border-radius: 5%; 
+    border: 1px solid skyblue;
+}
+.show-more:hover{
+    color: #fff;
+    background-color: #343a40;
+    text-decoration: none;
+}
+
